@@ -1,7 +1,5 @@
 'use strict';
 
-var counter = 0;
-
 var Counter = React.createClass({
 
     getInitialState: function(){
